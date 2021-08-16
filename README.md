@@ -1,2 +1,2 @@
 # BruteCracker
-An educational repo for a basic brute fforce phrase guessing program.
+An educational repo for a basic brute force phrase guessing program.
